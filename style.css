@@ -1,0 +1,9 @@
+.wpu_ssc_body {width: 98%}
+.wpu_ssc_body tr:last-child td {border-bottom-width: 0px;}
+
+.wpu_subheading{font-weight: bold;font-size: 14px;float: left;}
+.wpu_subheading>span{font-weight: normal;font-size: 12px; }
+.wpu_info{background-color: #E8E65F;}
+.wpu_warn{background-color: #F5BB51;}
+.wpu_err{background-color: #ED5387;}
+.wpu_heigth_limiter{height:200px;overflow-y:scroll;clear: both}
